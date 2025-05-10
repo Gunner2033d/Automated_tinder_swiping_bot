@@ -27,7 +27,7 @@ This is an automation script that logs into Tinder using Facebook and automatica
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/Automated_tinder_swiping_bot.git
+git clone https://github.com/Gunner2033d/Automated_tinder_swiping_bot.git
 cd Automated_tinder_swiping_bot
 ```
 2. **Install the dependencies**
