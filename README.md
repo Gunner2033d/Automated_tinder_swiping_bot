@@ -30,17 +30,17 @@ This is an automation script that logs into Tinder using Facebook and automatica
 git clone https://github.com/yourusername/tinder-auto-liker.git
 cd tinder-auto-liker
 ```
-2. **Install the dependencies
+2. **Install the dependencies**
 ```bash
 pip install -r requirements.txt
 ```
-3. Set up environment variables
-   Create a .env file in the root directory and add your Facebook credentials:
+3. **Set up environment variables**
+- Create a .env file in the root directory and add your Facebook credentials:
 ```bash
 EMAIL=your_facebook_email
 PASSWORD=your_facebook_password
 ```
-4. **Run the bot
+4. **Run the bot**
 ```bash
 python main.py
 ```
